@@ -36,7 +36,7 @@
         margin-bottom: auto;
     }
 
-    .sub1 {
+    .chicken {
         float: right;
         width: 100px;
         padding: 5px;
@@ -49,7 +49,7 @@
 
     }
 
-    .sub2 {
+    .beef {
         float: right;
         color: white;
         width: 100px;
@@ -63,7 +63,7 @@
 
     }
 
-    .sub3 {
+    .sushi {
         color: black;
         float: right;
         width: 100px;
